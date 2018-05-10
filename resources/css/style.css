@@ -44,7 +44,8 @@ header {
 }
 
 .company {
-  margin: 0.66rem 0rem;
+  padding-top: 0.66rem;
+  padding-bottom: 0.66rem;
 }
 
 .company span {
@@ -78,6 +79,7 @@ header {
   text-transform: uppercase;
   width: 20rem;
   background-color: black;
+  margin-top: 9rem;
   padding: 2rem 3rem;
 }
 
